@@ -1,0 +1,41 @@
+[
+  {
+    "id": "swix-ps7-violet",
+    "brand": "Swix",
+    "line": "Pro Performance Speed (PS)",
+    "product_name": "PS7 Violet",
+    "type": "glide",
+    "form": "liquid",
+    "temp_range": {
+      "min_celsius": -8.0,
+      "max_celsius": -2.0
+    },
+    "optimal_snow_conditions": ["fresh", "packed_powder", "old_snow"]
+  },
+  {
+    "id": "swix-ps8-red",
+    "brand": "Swix",
+    "line": "Pro Performance Speed (PS)",
+    "product_name": "PS8 Red",
+    "type": "glide",
+    "form": "liquid",
+    "temp_range": {
+      "min_celsius": -4.0,
+      "max_celsius": 4.0
+    },
+    "optimal_snow_conditions": ["packed_powder", "wet", "slush"]
+  },
+  {
+    "id": "toko-base-yellow",
+    "brand": "Toko",
+    "line": "Base Performance",
+    "product_name": "Liquid Yellow",
+    "type": "glide",
+    "form": "liquid",
+    "temp_range": {
+      "min_celsius": 0.0,
+      "max_celsius": 10.0
+    },
+    "optimal_snow_conditions": ["wet", "slush", "transformed_ice"]
+  }
+]
